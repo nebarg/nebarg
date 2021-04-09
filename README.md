@@ -19,4 +19,4 @@ As I can't tell you my top secret projects due to their uber coolness 😎 and a
 
 ### Follow me
 
-You can find me on Twitter [@GrantBennett](http://twitter.com/grantbennett) where I have absolutely nothing interesting to say.
+You can find me on Twitter [@grantbennett](http://twitter.com/grantbennett) where I have absolutely nothing interesting to say.
