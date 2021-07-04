@@ -1,6 +1,4 @@
-![Mac Code Window mockup](https://grantbennett.co.uk/images/banner/codewindow.jpg)
-
-## About..
+# About..
 
 Hi 👋, I’m Grant. A Developer from Yorkshire, England.
 
@@ -8,11 +6,11 @@ I started out [lots of years ago] with Visual Basic writing chat bots for IRC (I
 
 I'm primarily a backend PHP developer, with the usual mix of HTML/CSS/JS thrown in. I'm currently working hard to improve my skillset and learn all those things I skipped over when teaching myself but happen to be important when you move from hobby to income.
 
-### Projects..
+## Projects..
 
 I, like most developers, have lots of projects in the pipeline, and a long list of unused domain names, but none to show just yet.
 
-### Learning..
+## Learning..
 
 If you don't like learning, you shouldn't be a developer! It never ends, here's some of the stuff I'm working on;
 
@@ -22,6 +20,6 @@ If you don't like learning, you shouldn't be a developer! It never ends, here's 
 - AlpineJS - Once I've refreshed myself on vanilla JS, I think Alpine works well with Laravel so I'll definitely be looking at this.
 - Vue/React - I'm not sure about this one but I keep toying with the idea of learning a large JS framework eventually. Not sure which one yet.
 
-### Follow me
+## Connect with me
 
-You can find me on Twitter [@grantbennett](http://twitter.com/grantbennett) where I usually have absolutely nothing interesting to say.
+You can find me on Twitter [@grantbennett](https://twitter.com/grantbennett) or [Poly Work](https://poly.work/grantbennett).
