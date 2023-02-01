@@ -22,4 +22,4 @@ If you don't like learning, you shouldn't be a developer! It never ends, here's 
 
 ## Connect with me
 
-You can find me on Twitter [@grantbennett](https://twitter.com/grantbennett) or [Poly Work](https://poly.work/grantbennett).
+You can find me on Twitter [@grantbennett](https://twitter.com/grantbennett) or [Mastodon](https://phpc.social/@grant).
